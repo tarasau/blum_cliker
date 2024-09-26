@@ -1,0 +1,12 @@
+pyautogui
+pygetwindow
+keyboard
+pynput
+pillow
+numpy
+matplotlib
+scipy
+time
+random
+os
+sys
